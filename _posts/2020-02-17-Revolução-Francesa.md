@@ -2,6 +2,7 @@
 layout: post
 title: Revolução Francesa
 subtitle: Contexto histórico
+image: /img/Revolu.jpg
 bigimg: /img/revolution.jpg
 tags: [revolucao]
 ---
